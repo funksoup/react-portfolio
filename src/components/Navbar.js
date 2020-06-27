@@ -77,7 +77,7 @@ const Navbar = () => {
 				{menuItems.map((lsItem, key)=> (
 				<ListItem button key={key}>
 					<ListItemIcon>{lsItem.listIcon}</ListItemIcon>
-					<ListItemText />
+					<ListItemText primary={lsItem.listText} />
 				</ListItem>
 				))}
 			</List>
