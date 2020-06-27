@@ -1,7 +1,9 @@
 
 # React Portfolio
 
-Mobile-first portfolio website that utilizes React and Material UI framework.
+Mobile-first portfolio website that utilizes React and Material UI framework, with a animated sliding drawer menu.
+
+Live demo: https://funksoup.netlify.app/
 
 ------
 
@@ -12,6 +14,7 @@ Project is created with:
 * JavaScript
 * Node.js
 * React 
+* React-typed npm package
 * Material UI
 
 
@@ -29,9 +32,9 @@ Running `npm start` will execute the web app and render the website.
 
 
 
-This gif demonstrates the application's functionality: [update]
+This gif demonstrates the application's functionality: 
 
-<!-- <img src = "/public/images/dadjokes-demo.gif" width="600"> -->
+<img src = "/src/images/jos-react-portfolio.gif" width="600">
 
 
 ## License
