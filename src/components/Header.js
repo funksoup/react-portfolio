@@ -2,17 +2,18 @@ import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import { Typography, Avatar, Grid, Box } from '@material-ui/core';
 import Typed from "react-typed";
-import avatar from "../avatar_jos.jpg";
+import avatar from "../SL_greenscrn_dance.png";
 
 // CSS styles
 const useStyles = makeStyles(theme=> ({
 	avatar: {
-		width: theme.spacing(15),
-		height: theme.spacing(15),
+		width: theme.spacing(22),
+		height: theme.spacing(22),
 		margin: theme.spacing(1)
 	},
 	title: {
-		color: "tomato"
+		color: "tomato",
+		marginTop: "5rem"
 	},
 	subtitle: {
 		color: "tan",
@@ -42,7 +43,7 @@ const Header = () => {
 			</Typography>
 			<Typography className={classes.subtitle} variant="h5">
 				<Typed 
-				strings={["Creative Technologist", "Web Engineer", "Experience Designer", "Fulbright Scholar", "Dancer", "Educator"]} 
+				strings={["Virtual Experience Designer", "Web Engineer", "Dance Technologist", "Fulbright Scholar", "Media Studies Educator"]} 
 				typeSpeed={40}
 				backSpeed={60}
 				loop 
