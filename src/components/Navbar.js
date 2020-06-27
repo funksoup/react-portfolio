@@ -15,6 +15,7 @@ import {
 } from "@material-ui/core";
 
 import {
+	Menu,
 	ArrowBack,
 	ArrowBackIos,
 	ArrowForward,
@@ -29,15 +30,23 @@ import avatar from "../avatar_jos.jpg";
 
 const Navbar = () => {
 	return (
+		<>
+		<Box component="div">
+			<Avatar src={avatar} alt="Josephine's avatar" />
+		</Box>
 		<Box component="nav">
 			<AppBar position="static" style={{background: "#222"}}>
 				<Toolbar>
 					<IconButton>
-						<ArrowForward style={{color: "tomato"}} />
+						<Menu style={{color: "tomato"}} />
 					</IconButton>
+					<Typography variant="h5" style={{color: "tan"}}>
+					Portfolio
+					</Typography>
 				</Toolbar>
 			</AppBar>
 		</Box>
+		</>
 	)
 }
 
