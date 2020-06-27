@@ -34,7 +34,8 @@ Running `npm start` will execute the web app and render the website.
 
 This gif demonstrates the application's functionality: 
 
-<img src = "/src/images/jos-react-portfolio-2.gif" width="500">
+
+<a href="https://lh3.googleusercontent.com/wLWZANPoADEc2wte6RRoPzRJQ3irjMMsatq46SvM165TbcD4xJUKbLy1BDM6SS6Q3udrWbJk73hJCZjn3J72a3PHuAVCNtIFhdTnAcipN4pGZykfjHwVeAiSvn-slRf9-mhdn0i9ug=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/wLWZANPoADEc2wte6RRoPzRJQ3irjMMsatq46SvM165TbcD4xJUKbLy1BDM6SS6Q3udrWbJk73hJCZjn3J72a3PHuAVCNtIFhdTnAcipN4pGZykfjHwVeAiSvn-slRf9-mhdn0i9ug=w480-h260-p-k" width="500" /> </a>
 
 
 ## License
