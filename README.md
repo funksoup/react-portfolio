@@ -32,9 +32,9 @@ Running `npm start` will execute the web app and render the website.
 
 
 
-This gif demonstrates the application's functionality: 
+This video demonstrates the application's functionality: 
 
-<img src = "/src/images/jos-react-portfolio_sm.gif" width="600">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1xkxxQfkCno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## License
