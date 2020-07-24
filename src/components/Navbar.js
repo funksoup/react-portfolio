@@ -1,6 +1,7 @@
 import React, {useState} from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import MobileRightMenuSlider from '@material-ui/core/Drawer';
+import {Link} from 'react-router-dom';
 
 import {
 	AppBar,
@@ -52,19 +53,23 @@ const useStyles = makeStyles(theme=> ({
 const menuItems = [
 	{
 		listIcon: <Home />,
-		listText: "Home"
+		listText: "Home",
+		listPath: "/"
 	},
 		{
 		listIcon: <AssignmentInd />,
-		listText: "Resume"
+		listText: "Resume",
+		listPath: "/resume"
 	},
 		{
 		listIcon: <Apps />,
-		listText: "Portfolio"
+		listText: "Portfolio",
+		listPath: "/portfolio"
 	},
 		{
 		listIcon: <ContactMail />,
-		listText: "Contact"
+		listText: "Contact",
+		listPath: "/contacts"
 	}
 ];
 
@@ -91,7 +96,7 @@ const Navbar = () => {
 			<Divider />
 			<List>
 				{menuItems.map((lsItem, key)=> (
-				<ListItem button key={key}>
+				<ListItem button key={key} component={Link} to={lsItem.listPath}>
 					<ListItemIcon className={classes.listItem}>{lsItem.listIcon}</ListItemIcon>
 					<ListItemText className={classes.listItem} primary={lsItem.listText} />
 				</ListItem>
