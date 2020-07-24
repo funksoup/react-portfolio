@@ -20,16 +20,12 @@ import {
 import {
 	Menu,
 	Home,
-	ArrowBack,
-	ArrowBackIos,
-	ArrowForward,
-	ArrowForwardIos,
 	AssignmentInd,
 	Apps,
 	ContactMail
 } from "@material-ui/icons";
 
-import avatar from "../SL_greenscrn_dance.png";
+import avatar from "../fs_logo_header.png";
 
 // CSS styles
 const useStyles = makeStyles(theme=> ({
