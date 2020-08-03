@@ -35,7 +35,8 @@ Running `npm start` will execute the web app and render the website.
 This gif demonstrates the application's functionality: 
 
 
-<a href="https://lh3.googleusercontent.com/wLWZANPoADEc2wte6RRoPzRJQ3irjMMsatq46SvM165TbcD4xJUKbLy1BDM6SS6Q3udrWbJk73hJCZjn3J72a3PHuAVCNtIFhdTnAcipN4pGZykfjHwVeAiSvn-slRf9-mhdn0i9ug=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/wLWZANPoADEc2wte6RRoPzRJQ3irjMMsatq46SvM165TbcD4xJUKbLy1BDM6SS6Q3udrWbJk73hJCZjn3J72a3PHuAVCNtIFhdTnAcipN4pGZykfjHwVeAiSvn-slRf9-mhdn0i9ug=w480-h260-p-k" width="500" /> </a>
+<a href="https://photos.app.goo.gl/jxTi6YUdC4MNNpnk6"> <img src="https://photos.google.com/album/AF1QipOQ6ZNE-yHFM7t1bdiqQL2ent6km1nW7dODu6s/photo/AF1QipPBjVGUnA61xt5rNTH5vBObQim8XV5QE0l66jA" width="500" /> </a>
+
 
 
 ## License
