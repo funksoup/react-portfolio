@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.5565faed.chunk.css",
-    "main.js": "/static/js/main.12af8393.chunk.js",
-    "main.js.map": "/static/js/main.12af8393.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.10802427.chunk.js": "/static/js/2.10802427.chunk.js",
-    "static/js/2.10802427.chunk.js.map": "/static/js/2.10802427.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2006646cf4310479bd1753272607b17a.js": "/precache-manifest.2006646cf4310479bd1753272607b17a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5565faed.chunk.css.map": "/static/css/main.5565faed.chunk.css.map",
-    "static/js/2.10802427.chunk.js.LICENSE.txt": "/static/js/2.10802427.chunk.js.LICENSE.txt",
-    "static/media/SL_greenscrn_dance.png": "/static/media/SL_greenscrn_dance.ffd1f4cf.png",
-    "static/media/fs_logo_header.png": "/static/media/fs_logo_header.dfcee02c.png",
-    "static/media/html-css-javascript.jpg": "/static/media/html-css-javascript.2c7701aa.jpg",
-    "static/media/javascript-fullstack.jpg": "/static/media/javascript-fullstack.730958a2.jpg",
-    "static/media/App.css": "/static/media/jos_leap_bridge.9f8c324d.jpg",
-    "static/media/mern-stack.jpg": "/static/media/mern-stack.90616a5d.jpg",
-    "static/media/react-redux.jpg": "/static/media/react-redux.a8b012a0.jpg"
+    "main.css": "/react-portfolio/static/css/main.979ab256.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.d56013e1.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.d56013e1.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.1d992053.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.1d992053.js.map",
+    "static/js/2.10802427.chunk.js": "/react-portfolio/static/js/2.10802427.chunk.js",
+    "static/js/2.10802427.chunk.js.map": "/react-portfolio/static/js/2.10802427.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "precache-manifest.698316825f2ef35c7160c79d087b8bc0.js": "/react-portfolio/precache-manifest.698316825f2ef35c7160c79d087b8bc0.js",
+    "service-worker.js": "/react-portfolio/service-worker.js",
+    "static/css/main.979ab256.chunk.css.map": "/react-portfolio/static/css/main.979ab256.chunk.css.map",
+    "static/js/2.10802427.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.10802427.chunk.js.LICENSE.txt",
+    "static/media/SL_greenscrn_dance.png": "/react-portfolio/static/media/SL_greenscrn_dance.ffd1f4cf.png",
+    "static/media/fs_logo_header.png": "/react-portfolio/static/media/fs_logo_header.dfcee02c.png",
+    "static/media/html-css-javascript.jpg": "/react-portfolio/static/media/html-css-javascript.2c7701aa.jpg",
+    "static/media/javascript-fullstack.jpg": "/react-portfolio/static/media/javascript-fullstack.730958a2.jpg",
+    "static/media/App.css": "/react-portfolio/static/media/jos_leap_bridge.9f8c324d.jpg",
+    "static/media/mern-stack.jpg": "/react-portfolio/static/media/mern-stack.90616a5d.jpg",
+    "static/media/react-redux.jpg": "/react-portfolio/static/media/react-redux.a8b012a0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/runtime-main.1d992053.js",
     "static/js/2.10802427.chunk.js",
-    "static/css/main.5565faed.chunk.css",
-    "static/js/main.12af8393.chunk.js"
+    "static/css/main.979ab256.chunk.css",
+    "static/js/main.d56013e1.chunk.js"
   ]
 }
