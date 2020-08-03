@@ -132,29 +132,39 @@ const Resume = () => {
 
 					<Box component="div" className={classes.timeLineItem}>
 						<Typography variant="h5" align="center" className={classes.subHeading}>
-						Web Design & Development
+						Web Design & Development, Digital Marketing 
+
 						</Typography>
 						<Typography variant="body1" align="center" style={{color: "tomato"}}>
-						company name where worked
+						Clients: Uptown Pilates, Joy Brenner Art, Global Underscore
 						</Typography>
-						<Typography variant="subtitle1" align="center" style={{color: "tan"}}>
-						lorem ipsum
-						</Typography>
+
 					</Box>
 
 					<Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
-					2019
+					2017
 					</Typography>
 
 					<Box component="div" className={classes.timeLineItem}>
 						<Typography variant="h5" align="center" className={classes.subHeading}>
-						Senior Digital Marketing Strategist
+						Web Design & Development, Digital Marketing
 						</Typography>
 						<Typography variant="body1" align="center" style={{color: "tomato"}}>
-						company name where worked
+						Federal Home Loan Bank of New York
 						</Typography>
-						<Typography variant="subtitle1" align="center" style={{color: "tan"}}>
-						lorem ipsum
+
+					</Box>
+
+					<Typography variant="h2" className={`${classes.timeLineYear} ${classes.timeLineItem}`}>
+					2012
+					</Typography>
+
+					<Box component="div" className={classes.timeLineItem}>
+						<Typography variant="h5" align="center" className={classes.subHeading}>
+						TechCamp Trainer
+						</Typography>
+						<Typography variant="body1" align="center" style={{color: "tomato"}}>
+						U.S. Department of State
 						</Typography>
 					</Box>
 
@@ -167,11 +177,9 @@ const Resume = () => {
 						Professor of Media Studies
 						</Typography>
 						<Typography variant="body1" align="center" style={{color: "tomato"}}>
-						company name where worked
+						The New School
 						</Typography>
-						<Typography variant="subtitle1" align="center" style={{color: "tan"}}>
-						lorem ipsum
-						</Typography>
+
 					</Box>
 
 				</Box>

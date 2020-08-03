@@ -13,10 +13,10 @@ import {
 	} from "@material-ui/core";
 
 import Navbar from "./Navbar";
-import project1 from "../images/html-css-javascript.jpg"
-import project2 from "../images/javascript-fullstack.jpg"
-import project3 from "../images/react-redux.jpg"
-import project4 from "../images/mern-stack.jpg"
+import project1 from "../images/loft-lake-view.gif"
+import project2 from "../images/node_gitQuestions_1.jpg"
+import project3 from "../images/screen_HookingUp.jpg"
+import project4 from "../images/screen_MarkovMusk.png"
 
 const useStyles = makeStyles({
 	mainContainer: {
@@ -48,18 +48,18 @@ const Portfolio = () => {
 								/>
 									<CardContent>
 										<Typography gutterBottom variant="h5">
-										Project 1
+										3D Scene Sandbox
 										</Typography>
 										<Typography variant="body2" color="textSecondary" component="p">
-										Lorem ipsum
+										3d Scene Sandbox is a sandbox for exploring WebVR space creation using A-Frame. A combination of 3D models and 360-degree photospheres are used to create the immersive space.
 										</Typography>
 									</CardContent>
 							</CardActionArea>
 									<CardActions>
-										<Button size="small" color="primary">
-										 Share
+										<Button href="https://github.com/funksoup/3d-scene-sandbox"size="small" color="primary">
+										 Github
 										</Button>
-										<Button size="small" color="primary">
+										<Button href="https://funksoup.github.io/3d-scene-sandbox/loft.html" size="small" color="primary">
 										 Live demo
 										</Button>
 									</CardActions>
@@ -77,19 +77,16 @@ const Portfolio = () => {
 								/>
 									<CardContent>
 										<Typography gutterBottom variant="h5">
-										Project 2
+										README Generator
 										</Typography>
 										<Typography variant="body2" color="textSecondary" component="p">
-										Lorem ipsum
+										A command-line application that dynamically generates a README.md from a user's input.
 										</Typography>
 									</CardContent>
 							</CardActionArea>
 									<CardActions>
-										<Button size="small" color="primary">
-										 Share
-										</Button>
-										<Button size="small" color="primary">
-										 Live demo
+										<Button href="https://github.com/funksoup/readme-generator" size="small" color="primary">
+										 Github
 										</Button>
 									</CardActions>
 						</Card>
@@ -106,18 +103,17 @@ const Portfolio = () => {
 								/>
 									<CardContent>
 										<Typography gutterBottom variant="h5">
-										Project 3
+										 Hooking Up in Your Hood
 										</Typography>
 										<Typography variant="body2" color="textSecondary" component="p">
-										Lorem ipsum
-										</Typography>
+										Web app that promotes awareness and prevention of HIV, specifically geared toward New Yorkers. Input zipcode to display number of HIV cases by neighborhood, free condom distribution sites, informational videos and free testing sites.										</Typography>
 									</CardContent>
 							</CardActionArea>
 									<CardActions>
-										<Button size="small" color="primary">
-										 Share
+										<Button href="https://github.com/funksoup/Hooking-Up-in-Your-Hood" size="small" color="primary">
+										 Github
 										</Button>
-										<Button size="small" color="primary">
+										<Button href="https://funksoup.github.io/Hooking-Up-in-Your-Hood/" size="small" color="primary">
 										 Live demo
 										</Button>
 									</CardActions>
@@ -135,18 +131,18 @@ const Portfolio = () => {
 								/>
 									<CardContent>
 										<Typography gutterBottom variant="h5">
-										Project 4
+										Markov poem: Elon Musk meets Erica Jong
 										</Typography>
 										<Typography variant="body2" color="textSecondary" component="p">
-										Lorem ipsum
+										A generative poem that uses a Markov algorithm to mash up Elon Musk’s tweets with Erica Jong’s erotic poetry, along with a word cloud of the underlying code.
 										</Typography>
 									</CardContent>
 							</CardActionArea>
 									<CardActions>
-										<Button size="small" color="primary">
+										<Button href="https://github.com/funksoup/markov-poem" size="small" color="primary">
 										 Share
 										</Button>
-										<Button size="small" color="primary">
+										<Button href="http://bit.ly/markov-musk" size="small" color="primary">
 										 Live demo
 										</Button>
 									</CardActions>
